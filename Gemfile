@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 # serve assests efficiently
 gem 'rails_12factor', group: :production
 
+# adding bootstrap
+gem 'bootstrap-sass', '>= 3.3.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
