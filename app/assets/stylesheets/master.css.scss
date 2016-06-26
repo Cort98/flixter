@@ -62,3 +62,10 @@ h1, h2, h3, h4, h5, h6, .navbar {
 .clr {
   clear:both;
 }
+.has-error {
+  color: #ff3333;
+  background-color: #FFEEEE;
+  border-radius: 3px;
+  padding:8px;
+  margin:10px;
+}
