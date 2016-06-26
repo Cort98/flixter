@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 # serve assests efficiently
 gem 'rails_12factor', group: :production
 
+# adding simple form
+gem 'simple_form'
+
 # adding bootstrap
 gem 'bootstrap-sass', '>= 3.3.4'
 
