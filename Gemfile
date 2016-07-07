@@ -10,6 +10,8 @@ gem 'stripe'
 
 gem 'ranked-model'
 
+gem 'jquery-ui-rails'
+
 gem 'figaro'
 # gem 'fog'
 gem 'mini_magick', '~> 4.3.1'
