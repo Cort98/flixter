@@ -3,6 +3,11 @@ source 'https://rubygems.org'
 # serve assests efficiently
 gem 'rails_12factor', group: :production
 
+# adding carrierwave for video uploading
+gem 'carrierwave'
+
+gem 'figaro'
+gem 'fog'
 # adding simple form
 gem 'simple_form'
 
