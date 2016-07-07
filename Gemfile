@@ -6,6 +6,8 @@ gem 'rails_12factor', group: :production
 # adding carrierwave for video uploading
 gem 'carrierwave'
 
+gem 'stripe'
+
 gem 'figaro'
 # gem 'fog'
 gem 'mini_magick', '~> 4.3.1'
