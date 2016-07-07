@@ -8,6 +8,7 @@ gem 'carrierwave'
 
 gem 'figaro'
 gem 'fog'
+gem 'mini_magick', '~> 4.3.1'
 # adding simple form
 gem 'simple_form'
 
